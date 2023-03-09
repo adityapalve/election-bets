@@ -1,1 +1,2 @@
-# election-bets
+# Election Bets
+
